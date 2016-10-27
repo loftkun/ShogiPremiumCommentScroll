@@ -6,8 +6,9 @@
 
 ### 使い方 ###
 ------
-1 [このリンク](javascript:(function(){var s=document.createElement('script');s.src='http://c-loft.com/shogi/js/comment_scroll_shogi_premium.js';document.body.appendChild(s);})())をブックマークに追加します。
-
+1 以下リンクをブックマークに追加します。  
+	javascript:(function(){var s=document.createElement('script');s.src='http://c-loft.com/shogi/js/comment_scroll_shogi_premium.js';document.body.appendChild(s);})())
+  
 2 生放送ページでブックマークを押下するとコメントが動画上を流れます
 ![画像1](http://c-loft.com/blog/wp-content/uploads/shogi_premium2-1024x590.png "このようにコメントが流れます")
 
