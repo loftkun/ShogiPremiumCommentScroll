@@ -1,0 +1,2 @@
+# ShogiPremiumCommentScroll
+将棋プレミアムの生放送のコメントをニコ生風に流すブックマークレット
